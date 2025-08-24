@@ -178,6 +178,6 @@ data/*
 !data/.gitkeep
 
 # Cache file
-notebooks/cache
+**/cache/
 
 # End of https://www.toptal.com/developers/gitignore/api/python
