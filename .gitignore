@@ -177,4 +177,7 @@ pyrightconfig.json
 data/*
 !data/.gitkeep
 
+# Cache file
+notebooks/cache
+
 # End of https://www.toptal.com/developers/gitignore/api/python
