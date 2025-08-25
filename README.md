@@ -29,7 +29,7 @@ A ideia é demonstrar uma abordagem prática para **e-commerce e operações log
 
    ```bash
    git clone https://github.com/manoelcastront/geopandas-dataviz.git
-   cd nome-do-repo
+   cd geopandas-dataviz
    ```
 2. **Crie um ambiente virtual e ative**
 
